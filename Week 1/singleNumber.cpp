@@ -29,7 +29,7 @@ public:
     }
     //optimal solution
      int singleNumber(vector<int>& nums) {
-         int ans =0;
+         int ans =0; //No need to use extra varaible as well. we can directly use first element of the array and compare
          for(int i=0; i<nums.size();i++){
              ans ^= nums[i];
          }
