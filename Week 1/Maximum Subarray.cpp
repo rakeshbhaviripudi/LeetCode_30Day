@@ -1,5 +1,5 @@
 //Called as Kadane algorithm
-
+`wikipedia link: https://en.wikipedia.org/wiki/Maximum_subarray_problem`
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
