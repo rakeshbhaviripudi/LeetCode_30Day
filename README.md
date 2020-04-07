@@ -8,5 +8,5 @@ LeetCode 30 Days Challange
 | 3 | `MAXIMUM SUBARRAY` | https://leetcode.com/problems/maximum-subarray/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/Week%201/Maximum%20Subarray.cpp | 
 | 4 | `Move Zeroes` | https://leetcode.com/problems/move-zeroes/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/Week%201/Move%20Zeroes.cpp |
 | 5 | ` Best Time to Buy and Sell Stock II` | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/Week%201/BestTimetoBuyandSellStock.cpp |
-| 6 |`GROUP ANAGRAMS`|https://leetcode.com/problems/group-anagrams/| |https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/Week%201/Group%20Anagrams.cpp|
-| 7 |``| | |
+| 6 |`GROUP ANAGRAMS`| https://leetcode.com/problems/group-anagrams/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/Week%201/Group%20Anagrams.cpp |
+| 7 |`COUNTING ELEMENTS`|  | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/Week%201/Coutning%20Elements |
