@@ -5,7 +5,7 @@ public:
         else return b;
     }
     //Order of n solution is not accepted.
-    int countElements(vector<int>& arr) {
+    int countElements_Naive(vector<int>& arr) {
         int n = arr.size();
         vector<int> count(n+1);
          for(int i=0; i<=n; i++){
@@ -23,5 +23,15 @@ public:
             }
     return ans;
     }
+    
+    int countElements(vector<int>& arr){
+         unordered_set<int>us;
+         int ans=0;
+         us.insert(arr.begin(), arr.end());
+         for(int i=0; i<arr.size(); i++){
+            if(us.find(arr[i]+ 1)!= us.end()) ans++; 
+         }
+    return ans;
+     }
     
 };
