@@ -1,4 +1,7 @@
 class Solution {
+    /*
+    Infact both the methods are written in O(n). i feel countElements method is little efficient than countElements_Naive
+    */
 public:
     int min(int a, int b){
         if(a < b ) return a;
