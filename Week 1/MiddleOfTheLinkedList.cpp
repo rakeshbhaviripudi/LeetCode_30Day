@@ -8,7 +8,7 @@
  */
 class Solution {
 public:
-    ListNode* middleNode(ListNode* head) {
+    ListNode* middleNode_Naive(ListNode* head) {
         ListNode* CurrentNode;
         CurrentNode = head;
         int count =0;
@@ -29,4 +29,17 @@ public:
         }
     return NULL;
     }
+    
+     ListNode* middleNode(ListNode* head) {
+         ListNode* slowPointer;
+         ListNode* fastPointer;
+         slowPointer =head;
+         fastPointer =head;
+         while(fastPointer != NULL && fastPointer->next != NULL){
+             fastPointer = fastPointer ->next->next;
+             slowPointer = slowPointer ->next;
+         }
+         head = slowPointer;
+         return head;
+     }
 };
