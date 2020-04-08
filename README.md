@@ -10,3 +10,4 @@ LeetCode 30 Days Challange
 | 5 | ` Best Time to Buy and Sell Stock II` | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/Week%201/BestTimetoBuyandSellStock.cpp |
 | 6 |`GROUP ANAGRAMS`| https://leetcode.com/problems/group-anagrams/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/Week%201/Group%20Anagrams.cpp |
 | 7 |`COUNTING ELEMENTS`| https://leetcode.com/problems/counting-elements/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/Week%201/Coutning%20Elements |
+| 8 |`Middle of the Linked List`| https://leetcode.com/problems/middle-of-the-linked-list/ | |
