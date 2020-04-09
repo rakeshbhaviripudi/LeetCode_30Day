@@ -1,5 +1,9 @@
 class Solution {
-public:
+/* Actually this is not my solution, i copied it. :) 
+*
+*
+*/
+    public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
         unordered_map<string, vector<string>>mp;
         vector<vector<string>> result;
