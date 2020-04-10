@@ -29,6 +29,56 @@ public:
 };
 
 //Solution 2:
+//Fast Solution
+
+class MinStack {
+public:
+    vector< pair<int, int> > mystack;
+    int  min_value;
+    MinStack() {
+          min_value = INT_MAX;
+    }
+    
+    void push(int x) {
+        if(mystack.empty()){
+            min_value = x;
+        }
+        if(x<= min_value) min_value =x;
+            pair<int,int>temp(x,min_value );
+          
+           // cout<<temp.first<<" "<<temp.second<<'\n';
+            
+            mystack.push_back(temp);
+           
+    }
+    
+    void pop() {
+        if(!mystack.empty()){
+            mystack.pop_back();
+            min_value = mystack.empty()?INT_MAX:mystack[mystack.size()-1].second;
+        }
+    }
+    
+    int top() {
+        return mystack[mystack.size()-1].first;
+    }
+    
+    int getMin() {
+       return mystack[mystack.size()-1].second;
+    }
+};
+
+
+auto speedup=[](){
+    std::ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    return nullptr;
+}();
+
+
+
+
 
 
 
