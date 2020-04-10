@@ -12,3 +12,4 @@ LeetCode 30 Days Challange
 | 7 |`COUNTING ELEMENTS`| https://leetcode.com/problems/counting-elements/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/Week%201/Coutning%20Elements |
 | 8 |`Middle of the Linked List`| https://leetcode.com/problems/middle-of-the-linked-list/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/Week%201/MiddleOfTheLinkedList.cpp |
 | 9 | `Backspace String Compare` | https://leetcode.com/problems/backspace-string-compare/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/Week%201/BackspaceStringCompare.cpp |
+| 10 | ` Min Stack` | https://leetcode.com/problems/min-stack/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/Week%201/MinStack.cpp |
