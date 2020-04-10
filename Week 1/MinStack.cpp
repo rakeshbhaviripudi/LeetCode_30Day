@@ -28,6 +28,13 @@ public:
     }
 };
 
+//Solution 2:
+
+
+
+
+
+
 /**
  * Your MinStack object will be instantiated and called as such:
  * MinStack* obj = new MinStack();
