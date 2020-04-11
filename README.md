@@ -13,3 +13,4 @@ LeetCode 30 Days Challange
 | 8 |`Middle of the Linked List`| https://leetcode.com/problems/middle-of-the-linked-list/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/Week%201/MiddleOfTheLinkedList.cpp |
 | 9 | `Backspace String Compare` | https://leetcode.com/problems/backspace-string-compare/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/Week%201/BackspaceStringCompare.cpp |
 | 10 | ` Min Stack` | https://leetcode.com/problems/min-stack/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/Week%201/MinStack.cpp |
+| 11 | `Diameter of Binary Tree` | https://leetcode.com/problems/diameter-of-binary-tree/|  https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/Week%201/DiameterOfBinaryTree.cpp |
