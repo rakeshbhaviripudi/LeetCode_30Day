@@ -1,4 +1,4 @@
-# LeetCode_30Day
+## LeetCode_30Day
 LeetCode 30 Days Challange
 
 | Day | Problem Description | Problem and Solution Link | Git Solution Page |
