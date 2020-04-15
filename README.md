@@ -1,7 +1,7 @@
 
-## LeetCode_30Day
-LeetCode 30 Days Challange
-|                       WEEK 1                                             ||
+# LeetCode_30Day
+## LeetCode 30 Days Challange
+
 | Day | Problem Description | Problem and Solution Link | Git Solution Page |
 | :---: | :---: | :---: | :---: |
 | 1 | _`SINGLE NUMBER`_ |  https://leetcode.com/problems/single-number/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/Week%201/singleNumber.cpp |
@@ -20,9 +20,12 @@ LeetCode 30 Days Challange
 | 10 | ` Min Stack` | https://leetcode.com/problems/min-stack/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/Week%201/MinStack.cpp |
 | 11 | `Diameter of Binary Tree` | https://leetcode.com/problems/diameter-of-binary-tree/|  https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/Week%201/DiameterOfBinaryTree.cpp |
 | 12 | `Last Stone Weight`| https://leetcode.com/problems/last-stone-weight/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/Week%201/LastStoneWeight.cpp |
+| 13 | `Contiguous Array` | https://leetcode.com/problems/contiguous-array/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/Week%202/Contiguous%20Array.cpp |
+| 14 | `Perform String Shifts` | https://leetcode.com/problems/Perform-String-Shifts/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/Week%202/Perform%20String%20Shifts.cpp |
 
-
-
+| Day | Problem Description | Problem and Solution Link | Git Solution Page |
+| :---: | :---: | :---: | :---: |
+| 15 | `Product of Array Except Self` | https://leetcode.com/problems/product-of-array-except-self/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/week%203/Product%20of%20Array%20Except%20Self.cpp |
 
 
 
