@@ -1,7 +1,7 @@
 
 ## LeetCode_30Day
 LeetCode 30 Days Challange
-|                       WEEK 1                                              |
+|                       WEEK 1                                             ||
 | Day | Problem Description | Problem and Solution Link | Git Solution Page |
 | :---: | :---: | :---: | :---: |
 | 1 | _`SINGLE NUMBER`_ |  https://leetcode.com/problems/single-number/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/Week%201/singleNumber.cpp |
