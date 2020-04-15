@@ -11,6 +11,10 @@ LeetCode 30 Days Challange
 | 5 | ` Best Time to Buy and Sell Stock II` | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/Week%201/BestTimetoBuyandSellStock.cpp |
 | 6 |`GROUP ANAGRAMS`| https://leetcode.com/problems/group-anagrams/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/Week%201/Group%20Anagrams.cpp |
 | 7 |`COUNTING ELEMENTS`| https://leetcode.com/problems/counting-elements/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/Week%201/Coutning%20Elements |
+
+
+| Day | Problem Description | Problem and Solution Link | Git Solution Page |
+| :---: | :---: | :---: | :---: |
 | 8 |`Middle of the Linked List`| https://leetcode.com/problems/middle-of-the-linked-list/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/Week%201/MiddleOfTheLinkedList.cpp |
 | 9 | `Backspace String Compare` | https://leetcode.com/problems/backspace-string-compare/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/Week%201/BackspaceStringCompare.cpp |
 | 10 | ` Min Stack` | https://leetcode.com/problems/min-stack/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/Week%201/MinStack.cpp |
