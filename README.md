@@ -26,8 +26,11 @@
 | Day | Problem Description | Problem and Solution Link | Git Solution Page |
 | :---: | :---: | :---: | :---: |
 | 15 | `Product of Array Except Self` | https://leetcode.com/problems/product-of-array-except-self/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/week%203/Product%20of%20Array%20Except%20Self.cpp |
-
-
-
+| 16 | `Valid Parenthesis String`| https://leetcode.com/problems/valid-parenthesis-string/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/week%203/Valid%20Parenthesis%20String.cpp |
+| 17 | `Number of Islands` | https://leetcode.com/problems/number-of-islands/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/week%203/Number%20of%20Islands.cpp |
+| 18 | `Minimum Path Sum` | https://leetcode.com/problems/minimum-path-sum/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/week%203/Minimum%20Path%20Sum.cpp |
+| 19 | `Search in Rotated Sorted Array` | https://leetcode.com/problems/search-in-rotated-sorted-array/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/week%203/Search%20in%20Rotated%20Sorted%20Array.cpp |
+| 20 | `Construct Binary Search Tree from Preorder Traversal` | https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/week%203/Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.cpp |
+| 21 | `Leftmost Column with at Least a One` | Question not available(posted in solution link) | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/week%203/Leftmost%20Column%20with%20at%20Least%20a%20One.cpp |
 
 
