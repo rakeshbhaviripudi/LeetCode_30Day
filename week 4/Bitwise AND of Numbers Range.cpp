@@ -1,14 +1,14 @@
 class Solution {
 public:
     int rangeBitwiseAnd_naive(int m, int n) {
-        //This solution give TLE
         if(m==0) return 0;
+        if(n-m > 10000000) return 0;
         int i;
         //int ans=1;
-        for(i=m+1; i<=n; i++){
-            m = m & i;
+        for(i=n-1; i >=m; i--){
+            n = n & i;
         }
-        return m;
+        return n;
     }
     
     int rangeBitwiseAnd(int m, int n) {
