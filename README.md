@@ -32,6 +32,9 @@
 | 19 | `Search in Rotated Sorted Array` | https://leetcode.com/problems/search-in-rotated-sorted-array/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/week%203/Search%20in%20Rotated%20Sorted%20Array.cpp |
 | 20 | `Construct Binary Search Tree from Preorder Traversal` | https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/week%203/Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.cpp |
 | 21 | `Leftmost Column with at Least a One` | Question not available(posted in solution link) | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/week%203/Leftmost%20Column%20with%20at%20Least%20a%20One.cpp |
+
+| Day | Problem Description | Problem and Solution Link | Git Solution Page |
+| :---: | :---: | :---: | :---: |
 | 22 | `Subarray Sum Equals K` | https://leetcode.com/problems/subarray-sum-equals-k/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/week%204/Subarray%20Sum%20Equals%20K.cpp |
 | 23 | `Bitwise AND of Numbers Range` | https://leetcode.com/problems/bitwise-and-of-numbers-range/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/week%204/Bitwise%20AND%20of%20Numbers%20Range.cpp |
 
