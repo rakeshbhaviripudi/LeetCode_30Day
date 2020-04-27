@@ -39,3 +39,4 @@
 | 23 | `Bitwise AND of Numbers Range` | https://leetcode.com/problems/bitwise-and-of-numbers-range/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/week%204/Bitwise%20AND%20of%20Numbers%20Range.cpp |
 | 24 |`LRU Cache`| https://leetcode.com/problems/lru-cache/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/week%204/LRU%20Cache.cpp |
 | 25 | `Longest Common Subsequence` | https://leetcode.com/problems/longest-common-subsequence/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/week%204/Longest%20Common%20Subsequence.cpp |
+| 26 | `Maximal Square`| https://leetcode.com/problems/maximal-square/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/week%204/Maximal%20Square.cpp  |
