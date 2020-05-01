@@ -38,9 +38,13 @@
 | 22 | `Subarray Sum Equals K` | https://leetcode.com/problems/subarray-sum-equals-k/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/week%204/Subarray%20Sum%20Equals%20K.cpp |
 | 23 | `Bitwise AND of Numbers Range` | https://leetcode.com/problems/bitwise-and-of-numbers-range/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/week%204/Bitwise%20AND%20of%20Numbers%20Range.cpp |
 | 24 |`LRU Cache`| https://leetcode.com/problems/lru-cache/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/week%204/LRU%20Cache.cpp |
-| 25 | `Jump Game` | https://leetcode.com/problems/jump-game | |
-
-
+| 25 | `Jump Game` | https://leetcode.com/problems/jump-game | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/week%204/jump%20game.cpp |
 | 26 | `Longest Common Subsequence` | https://leetcode.com/problems/longest-common-subsequence/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/week%204/Longest%20Common%20Subsequence.cpp |
 | 27 | `Maximal Square`| https://leetcode.com/problems/maximal-square/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/week%204/Maximal%20Square.cpp  |
 | 28 | `First Unique Number` |  | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/week%204/First%20Unique%20Number.cpp |
+
+| Day | Problem Description | Problem and Solution Link | Git Solution Page |
+| :---: | :---: | :---: | :---: |
+| 29 | `Binary Tree Maximum Path Sum.cpp`| https://leetcode.com/problems/binary-tree-maximum-path-sum/ | 
+https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/week%205/Binary%20Tree%20Maximum%20Path%20Sum.cpp |
+| 30 | `Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary` |  | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/week%205/Check%20If%20a%20String%20Is%20a%20Valid%20Sequence%20from%20Root%20to%20Leaves%20Path%20in%20a%20Binary.cpp |
