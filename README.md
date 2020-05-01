@@ -45,6 +45,5 @@
 
 | Day | Problem Description | Problem and Solution Link | Git Solution Page |
 | :---: | :---: | :---: | :---: |
-| 29 | `Binary Tree Maximum Path Sum.cpp`| https://leetcode.com/problems/binary-tree-maximum-path-sum/ | 
-https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/week%205/Binary%20Tree%20Maximum%20Path%20Sum.cpp |
+| 29 | `Binary Tree Maximum Path Sum.cpp`| https://leetcode.com/problems/binary-tree-maximum-path-sum/ | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/week%205/Binary%20Tree%20Maximum%20Path%20Sum.cpp |
 | 30 | `Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary` | | https://github.com/rakeshbhaviripudi/LeetCode_30Day/blob/master/week%205/Check%20If%20a%20String%20Is%20a%20Valid%20Sequence%20from%20Root%20to%20Leaves%20Path%20in%20a%20Binary.cpp |
